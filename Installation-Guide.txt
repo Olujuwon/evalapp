@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+EVALAPP (Evaluation Application)
+Developer-friendly Installation Guide
+Version 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright  ©	2017 Nord Software. All rights reserved.
+No part of this software, documentation or publication may be reproduced, transcribed, stored in a retrieval system, translated into any language, computer language, or transmitted in any form or by any means, electronically, mechanically, magnetically, optically, chemically, photocopied, manually, or otherwise, without prior written permission from nordsoftware. 
+nordsoftware specifically retains title to all nordsoftware software. This software is supplied under a license agreement and may only be installed, used or copied in accordance to that agreement. 
+Disclaimer 
+nordsoftware provides this publication “as is” without warranty of any kind, either expressed or implied. 
+This publication may contain technical inaccuracies or typographical errors. While every precaution has been taken in the preparation of this document to ensure that it contains accurate and up-to-date information, the publisher and author assume no responsibility for errors or omissions. Nor is any liability assumed for damages resulting from the use of the information contained in this document. 
+nordsoftware policy is one of continual development, so the content of this document is periodically subject to be modified without notice. These changes will be incorporated in new editions of the publication. nordsoftwate may make improvements and/or changes in the product(s) and/or the program(s) described in this publication at any time. 
+nordsoftware may have patents or pending patent applications covering subject matters in this document. The furnishing of this document does not give you any license to these patents. 
+Technical Support 
+For technical support and the latest news of upgrades, documentation, and related products, visit the nordsoftware web site at https://olujuwon.github.io/evalapp/  
+
+Last Updated 
+
+04.07.2017
+
+
+
+Table of Contents
+Introduction04
+About Evalapp04
+Architecture04
+    Wireframe. 05
+    Web Technologies05
+    Toolkits05
+Deployment and Contributions05
+Resources06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+Evalapp is a React.js page rendering a table that displays details of some randomly generated participants with their details. It also renders a form for adding new participants to the rendered list. It supports basic inline editing of rendered participants such as delete, edit and sorting.
+The page is a collection of React.js components working together, in order to understand the Evalapp app; you need a general understanding of:
+* The structure and architecture of the app
+* The various web technologies on which the app is built
+ABOUT EVALAPP
+Architecture
+
+
+
+
+
+
+
+
+
+The application is built on react.js, which is interpreted into the browsers DOM as HTML, CSS and Java script via babel. Babel converts react.js codes into java script that is understandable to the browser.
+
+App Wireframe
+
+
+Web Technologies 
+* HTML
+* CSS
+* Java Script
+* React.Js
+* Bootstrap 
+* Node.js
+* UUID
+Toolkits.
+* Visual studio code
+* Bootstrap Studio
+* GitHub
+Deployment and Contributions
+A live build of the application have been deployed on the internet via GitHub and can be accessed via the link below:
+ https://olujuwon.github.io/evalapp/ 
+Also, the codes are available for contributions on the GitHub public repo specified below:
+https://github.com/Olujuwon/evalapp
+The codes can be cloned or downloaded from GitHub via the link above. 
+
+
+Resources
+* Youtube videos
+* https://www.w3schools.com/
+* Pinterest
+* http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors
+* https://www.mockaroo.com
+* Book- React.js Essentials by Artemij Fedosejev, August 2015
+* 
+
+
+
+
+3
+
+
