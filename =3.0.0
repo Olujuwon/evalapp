@@ -1,0 +1,17 @@
+evalapp@0.1.0 /Users/Olujuwon/evalapp
+├── eslint@4.1.1 
+├── eslint-config-standard@10.2.1 
+├─┬ eslint-plugin-import@2.6.0 
+│ └─┬ read-pkg-up@2.0.0 
+│   └─┬ read-pkg@2.0.0 
+│     ├─┬ load-json-file@2.0.0 
+│     │ └── strip-bom@3.0.0 
+│     └── path-type@2.0.0 
+├── eslint-plugin-node@5.1.0 
+├── eslint-plugin-promise@3.5.0 
+├── eslint-plugin-standard@3.0.1 
+└─┬ react-scripts@1.0.7
+  ├── UNMET PEER DEPENDENCY eslint@3.19.0
+  └─┬ eslint-plugin-import@2.2.0 
+    └── doctrine@1.5.0 
+
