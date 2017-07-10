@@ -56,16 +56,17 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" /> Nord Software
         </div>
-        <div>
-          <p className="App-intro">
+        <div className="row">
+          <p>
           List of Participants
           </p>
         </div>
-        <div className="app">
+        <div>
           <AddParticipant  addedparticipant={this.handleaddedparticipant.bind(this)}/> {/*this takes the parsed object from addPart.js page*/}
           <PartList  participants={this.state.participants} className="tb" onDelete={this.handleDeleteParti.bind(this)}/>
         </div>
       </div>
+
     );
   }
 }
